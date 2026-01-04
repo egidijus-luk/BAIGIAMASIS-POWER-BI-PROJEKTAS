@@ -25,3 +25,25 @@ Data Cleaning & Transformation
 KPI Design
 
 Data Visualization
+
+📈 Key Features
+
+Professionally designed and consistent dashboard theme
+
+Clearly defined KPIs to track performance
+
+Multiple analytical pages providing deeper insights
+
+Well-structured visualizations supporting data-driven decisions
+
+Balanced combination of summary views and detailed analysis
+
+🧠 Analytical Focus
+
+KPI performance monitoring
+
+Trend analysis
+
+Comparative analysis across different dimensions
+
+Insight-driven storytelling through visuals
